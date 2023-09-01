@@ -1,0 +1,35 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: tbb.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- webp
+- assets/id.txt
+- assets/title.txt
+- assets/token.txt
+- assets/url.txt
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '26'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  kotlin-tooling-metadata.json: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1-SNAPSHOT (Powered By Apkmod)
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
