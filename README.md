@@ -8,6 +8,7 @@ Welcome to AntiGalleryHack, a security-focused project designed to protect your 
 To get started with AntiGalleryHack, follow these steps:
 
 Clone the repository:
+
 `pkg update && pkg upgrade`
 
 `pkg install git`
